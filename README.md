@@ -8,3 +8,4 @@ The purpose of this project, is to determine the number of retiring employees by
 
 ## The Results
 The Humans Resources (HR) Department at Pewlett Hackard is preparing for several employee retirements, but they were unsure how many or which departments they work. A quick query helped inform HR that they have 33,118 current employees who are eligible for retirement. These current retire-eligible employees can be found here:
+:[Retire Eligible Employees](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv)
