@@ -20,5 +20,4 @@ There is another result, identifies employee who are eligible for the mentorship
 
 All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the results there is nearly 14,000 and roughly 13,000 had senior engineer and engineer positions, respectively. Following this group, almost 13,000 and 12,000 had senior staff and staff positions, respectively. Please see picture below;
 
-https://user-images.githubusercontent.com/85411967/137603424-38bdc553-a527-44c8-ad0c-6ad49e728fcb.png
 
