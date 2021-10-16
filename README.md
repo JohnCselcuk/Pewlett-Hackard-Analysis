@@ -1,5 +1,11 @@
 # Pewlett Hackard Analysis
-Please follow the link for resources:[Pewlett Hackard Analysis](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis)  
+Follow the link to reach Data files:[Pewlett Hackard Analysis](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis)  
+
+We used several tools to complete this Analysis:
+- QuickDBD
+- PgAdmin
+- Python 3 
+- Vs code
 
 ## Overview of the Analysis
 
