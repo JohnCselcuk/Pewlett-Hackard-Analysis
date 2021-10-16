@@ -1,4 +1,5 @@
 # Pewlett Hackard Analysis
+Please follow the link for resources:[Pewlett Hackard Analysis](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis)  
 
 ## Overview of the Analysis
 
