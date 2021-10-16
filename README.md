@@ -14,7 +14,7 @@ The purpose of this project, is to determine the number of retiring employees by
 
 ## The Results
 The Humans Resources (HR) Department at Pewlett Hackard is preparing for several employee retirements, but they were unsure how many or which departments they work. These current retire-eligible employees can be found here:
-:[Retire Eligible Employees](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv)
+[Retire Eligible Employees](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv)
 
 There is another result, identifies employee who are eligible for the mentorship program can be viewed here: [Mentorship_Eligibility](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/mentorship_eligibilty.csv)
 
