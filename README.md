@@ -18,7 +18,7 @@ The Humans Resources (HR) Department at Pewlett Hackard is preparing for several
 
 There is another result, identifies employee who are eligible for the mentorship program can be viewed here: [Mentorship_Eligibility](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/mentorship_eligibilty.csv)
 
-All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the results there is nearly 14,000 and roughly 13,000 had senior engineer and engineer positions, respectively. Following this group, almost 13,000 and 12,000 had senior staff and staff positions, respectively. Please see picture below;
+All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the results there is nearly 30,000 and roughly 29,000 had senior engineer and engineer positions, respectively. Following this group, almost 13,000 and 12,000 had senior staff and staff positions, respectively. Please see picture below;
 
 ![Employees by Titles](https://user-images.githubusercontent.com/85411967/137603448-ff6ffbd5-b9f5-4080-8ced-45f2c5d5d707.png)
 
