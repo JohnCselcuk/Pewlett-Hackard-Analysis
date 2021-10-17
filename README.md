@@ -3,9 +3,9 @@ Follow the link to reach Data files:[Pewlett Hackard Analysis](https://github.co
 
 We used several tools to complete this Analysis:
 - QuickDBD
+- SQL
 - PgAdmin
-- Python 3 
-- Vs code
+- Python 3
 
 ## Overview of the Analysis
 
