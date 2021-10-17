@@ -6,7 +6,6 @@ We used several tools to complete this Analysis:
 - ERD Schema
 - SQL
 - PgAdmin
-- Python 3
 
 ## Overview of the Analysis
 
