@@ -49,3 +49,4 @@ We have used ERD diagram tool to build queries for this analysis. Please see pic
 ![EmployeeDB](https://user-images.githubusercontent.com/85411967/137627486-f2c1afe3-3380-414c-9067-752a82575a38.png)
 
 ## Summary
+We created  a graph to categorize the retirees into age groups. For each year, the company can hire (internally or externally) the amount of people that would be retiring, assuming that the retirement age is 65. Currently, we have a list of people who were born between 1952 and 1955. Therefore, HR would have a different hiring quota for each of the following four years. HR is also considering a mentorship program and wanted to get a better idea of which employees would be good candidates for mentoring. A quick query helped inform HR that there are 1549 employees who are eligible to be mentors according to their criteria. 
