@@ -20,7 +20,7 @@ There is another result, identifies employee who are eligible for the mentorship
 
 - With the retirment_titles table we are able to see every eligible for retirement employee and how long they have worked at each position over the course of their career.
 - We have used to several statement and function to complete this project; DISTINCT ON, INTO, COUNT(), INNER JOIN, ORDER BY etc...
-- We have create breakdown for each retiring job title and find out the percentage;
+### We have create breakdown for each retiring job title and find out the percentage;
     
  - Senior Engineer: 32.5%
     
