@@ -29,3 +29,5 @@ All of these current retire-eligible employees have held different positions at 
 We have used ERD diagram tool to build queries for this analysis. Please see picture below.
 
 ![EmployeeDB](https://user-images.githubusercontent.com/85411967/137627486-f2c1afe3-3380-414c-9067-752a82575a38.png)
+
+## Summary
