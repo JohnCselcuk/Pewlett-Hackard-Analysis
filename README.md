@@ -1,5 +1,5 @@
 # Pewlett Hackard Analysis
-Follow the link to reach Data files:[Pewlett Hackard Analysis](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis)  
+Follow the link to reach Data Sources:[Pewlett Hackard Analysis](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis)  
 
 We used several tools to complete this Analysis:
 - QuickDBD
@@ -20,6 +20,15 @@ There is another result, identifies employee who are eligible for the mentorship
 
 - With the retirment_titles table we are able to see every eligible for retirement employee and how long they have worked at each position over the course of their career.
 - We have used to several statement and function to complete this project; DISTINCT ON, INTO, COUNT(), INNER JOIN, ORDER BY etc...
+- We have create breakdown for each retiring job title and find out the results;
+Senior Engineer: 32.5%
+Senior Staff: 31.3%
+Engineer: 15.7%
+Staff: 13.5%
+Technique Leader: 5.0%
+Assistant Engineer: 1.9%
+Manager: 0.0%
+
 
 All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the results there is nearly 30,000 and roughly 29,000 had senior engineer and engineer positions, respectively. Following this group, almost 29,000 and 28,000 had senior staff and staff positions, respectively. For more details about retire-eligible employees please see picture below;
 
