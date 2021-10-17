@@ -22,7 +22,7 @@ There is another result, identifies employee who are eligible for the mentorship
 - We have used to several statement and function to complete this project; DISTINCT ON, INTO, COUNT(), INNER JOIN, ORDER BY etc...
 ### We have create breakdown for each retiring job title and find out the percentage of employees;
  
-Resources file [Unique Titles](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.csv)
+Resources file [Unique Titles](https://github.com/JohnCselcuk/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/unique_titles.csv)
  
  - Senior Engineer: 32.5%
     
