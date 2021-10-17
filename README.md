@@ -3,6 +3,7 @@ Follow the link to reach Data files:[Pewlett Hackard Analysis](https://github.co
 
 We used several tools to complete this Analysis:
 - QuickDBD
+- ERD Schema
 - SQL
 - PgAdmin
 - Python 3
@@ -25,3 +26,7 @@ All of these current retire-eligible employees have held different positions at 
 
 ![Employees by Titles](https://user-images.githubusercontent.com/85411967/137603448-ff6ffbd5-b9f5-4080-8ced-45f2c5d5d707.png)
 
+## ERD Schema
+We have used ERD diagram tool to build queries for this analysis. Please see picture below.
+
+![EmployeeDB](https://user-images.githubusercontent.com/85411967/137627486-f2c1afe3-3380-414c-9067-752a82575a38.png)
